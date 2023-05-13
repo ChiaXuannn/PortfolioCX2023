@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>❤️ChiaXuan</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+
+<!-- TOP NAV START -->
+<div id="BoxCategory_1 "></div>
+
+<!-- TOP NAV END -->
+<body>
+<nav class="nav-bar">
+    <ul>
+    <li><a href="#"><img src="home.png"></a></li>
+    <li><a href="#"><img src="search.png"></a></li>
+    <li><a href="#"><img src="chat.png"></a></li>
+    <li><a href="#"><img src="more.png"></a></li>
+</ul>
+  </nav>
+  
+
+
+<!-- <div class="logo"><a href="#"><img src="home.png"></a>
+    <a href="#"><img src="search.png"></a>
+    <a href="#"><img src="chat.png"></a>
+    <a href="#"><img src="more.png"></a>
+
+</div> -->
+
+<style>
+    body {
+       background-color: rgb(248, 237, 138);
+    }
+
+    </style>
+
+
+</body>
+
+</html>
